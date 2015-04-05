@@ -21,6 +21,11 @@
 		628221621AD072220094633F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 628221441AD072220094633F /* UIKit.framework */; };
 		6282216A1AD072220094633F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 628221681AD072220094633F /* InfoPlist.strings */; };
 		6282216C1AD072220094633F /* WhateverTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6282216B1AD072220094633F /* WhateverTests.m */; };
+		6282217A1AD0731F0094633F /* monster-lizard copy 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 628221751AD0731F0094633F /* monster-lizard copy 2.png */; };
+		6282217B1AD0731F0094633F /* SNES - Chrono Trigger - Crono.png in Resources */ = {isa = PBXBuildFile; fileRef = 628221761AD0731F0094633F /* SNES - Chrono Trigger - Crono.png */; };
+		6282217C1AD0731F0094633F /* bluegreenredtriangle.png in Resources */ = {isa = PBXBuildFile; fileRef = 628221771AD0731F0094633F /* bluegreenredtriangle.png */; };
+		6282217D1AD0731F0094633F /* desert background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 628221781AD0731F0094633F /* desert background.jpg */; };
+		6282217E1AD0731F0094633F /* subltle background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 628221791AD0731F0094633F /* subltle background.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +58,11 @@
 		628221671AD072220094633F /* WhateverTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WhateverTests-Info.plist"; sourceTree = "<group>"; };
 		628221691AD072220094633F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6282216B1AD072220094633F /* WhateverTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WhateverTests.m; sourceTree = "<group>"; };
+		628221751AD0731F0094633F /* monster-lizard copy 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "monster-lizard copy 2.png"; sourceTree = "<group>"; };
+		628221761AD0731F0094633F /* SNES - Chrono Trigger - Crono.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SNES - Chrono Trigger - Crono.png"; sourceTree = "<group>"; };
+		628221771AD0731F0094633F /* bluegreenredtriangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bluegreenredtriangle.png; sourceTree = "<group>"; };
+		628221781AD0731F0094633F /* desert background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "desert background.jpg"; sourceTree = "<group>"; };
+		628221791AD0731F0094633F /* subltle background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "subltle background.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +139,11 @@
 				628221481AD072220094633F /* Whatever-Info.plist */,
 				628221491AD072220094633F /* InfoPlist.strings */,
 				6282214C1AD072220094633F /* main.m */,
+				628221751AD0731F0094633F /* monster-lizard copy 2.png */,
+				628221761AD0731F0094633F /* SNES - Chrono Trigger - Crono.png */,
+				628221771AD0731F0094633F /* bluegreenredtriangle.png */,
+				628221781AD0731F0094633F /* desert background.jpg */,
+				628221791AD0731F0094633F /* subltle background.jpeg */,
 				6282214E1AD072220094633F /* Whatever-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -228,9 +243,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6282217A1AD0731F0094633F /* monster-lizard copy 2.png in Resources */,
 				628221591AD072220094633F /* Images.xcassets in Resources */,
+				6282217B1AD0731F0094633F /* SNES - Chrono Trigger - Crono.png in Resources */,
 				6282214B1AD072220094633F /* InfoPlist.strings in Resources */,
 				628221541AD072220094633F /* Main.storyboard in Resources */,
+				6282217C1AD0731F0094633F /* bluegreenredtriangle.png in Resources */,
+				6282217E1AD0731F0094633F /* subltle background.jpeg in Resources */,
+				6282217D1AD0731F0094633F /* desert background.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
